@@ -1,0 +1,6 @@
+module Pods_StarWarDataAPI {
+  umbrella header "Pods-StarWarDataAPI-umbrella.h"
+
+  export *
+  module * { export * }
+}
